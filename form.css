@@ -1,0 +1,20 @@
+h1
+{
+background-color:brown;
+color:peachpuff;
+text-align:center ;
+}
+label
+{
+    background-color:peacpuff;
+    color:brown;
+    font-weight:bolder;
+    margin-top:10px;
+}
+input[type]
+{
+    background-color:peachpuff;
+    color:brown;
+    border-radius:5px;
+    margin-top:10px;
+}
